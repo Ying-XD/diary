@@ -1,0 +1,3 @@
+#! /usr/bin/bash
+git remote add origin git@github.com:Ying-XD/diary.git
+git add .
